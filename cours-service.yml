@@ -1,6 +1,6 @@
 spring:
   application:
-    name: formateur-service
+    name: cours-service
   datasource:
     url: jdbc:postgresql://localhost:5432/gestion_cours
     username: postgres
